@@ -29,5 +29,5 @@ If you plan to use or adapt any of this work please contact me, Thank you.
 
 ---
 <p align="center">
-  <a href="www.linkedin.com/in/fernanda-g-050932264"><strong>LinkedIn | Fern</strong></a>
+  <a href="https://www.linkedin.com/in/fernanda-g-050932264/"><strong>LinkedIn | Fern</strong></a>
 </p>
